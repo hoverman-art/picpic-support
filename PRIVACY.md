@@ -1,6 +1,6 @@
 # Politique de confidentialité — Picpic
 
-*Dernière mise à jour : 10 septembre 2026*
+*Dernière mise à jour : 18 septembre 2026*
 
 ## L'essentiel
 
@@ -10,7 +10,8 @@ Picpic n'a pas de serveurs. Ta bibliothèque, tes notes, ton profil de lecture :
 
 - Aucune donnée de ta bibliothèque (livres, statuts de lecture, notes, étoiles) ne quitte ton appareil vers nos systèmes — nous n'en avons pas.
 - Aucune donnée de localisation n'est collectée. La carte des bibliothèques qui possèdent un livre affiche les coordonnées publiques renvoyées par le Sudoc : Picpic ne demande jamais ta position, et l'app n'a aucune autorisation de localisation.
-- **Aucune photo n'est envoyée nulle part.** Le scan d'un code-barres, la lecture d'une étagère, la capture d'une citation et la reconnaissance d'une couverture depuis la recherche visuelle de ton iPhone se font entièrement sur l'appareil, avec le cadre Vision d'Apple. Seul le texte reconnu — un ISBN, un titre — sert ensuite à interroger les catalogues ci-dessous.
+- **Aucune photo n'est envoyée nulle part.** Le scan d'un code-barres, la lecture d'une étagère, la capture d'une citation, la photo d'une bibliographie de TD et la reconnaissance d'une couverture depuis la recherche visuelle de ton iPhone se font entièrement sur l'appareil, avec le cadre Vision d'Apple. Seul le texte reconnu — un ISBN, un titre — sert ensuite à interroger les catalogues ci-dessous.
+- Tes TD, leurs dates et leurs bibliographies restent sur ton iPhone, comme ta bibliothèque. Le conseil affiché quand tu scannes un livre est calculé sur l'appareil ; sa formulation, quand Apple Intelligence est disponible, vient du modèle embarqué d'Apple, sans aucun appel réseau.
 - Rien de ce que tu demandes à l'assistant de lecture ne quitte ton iPhone. Il s'appuie sur le modèle embarqué d'Apple Intelligence : ta question et ta bibliothèque sont traitées sur l'appareil, sans aucun appel réseau.
 - Aucun identifiant publicitaire n'est utilisé.
 
@@ -26,6 +27,7 @@ Picpic interroge directement des services publics, sans passer par une machine �
 | Voir où emprunter un livre | Sudoc / ABES, y compris le service `multiwhere` pour situer les bibliothèques |
 | Estimer ce que vaut un exemplaire | BnF, Sudoc et Open Library. Les liens « voir les offres réelles » ouvrent simplement le site marchand dans ton navigateur : Picpic n'y envoie rien et n'en rapporte rien |
 | Écouter un classique | Internet Archive et LibriVox (enregistrements du domaine public) |
+| Écouter un classique avec la voix Picpic | Le Projet Gutenberg, pour trouver et récupérer le texte du domaine public. La voix elle-même est téléchargée une seule fois depuis Hugging Face (modèle Supertonic-3), puis la lecture se fait entièrement sur ton iPhone : aucun texte ni aucun son ne repart |
 | Écouter un podcast | L'annuaire public d'Apple pour trouver l'émission, puis le flux RSS publié par son auteur. Le fichier est joué depuis l'adresse de l'éditeur, comme le ferait n'importe quel lecteur de podcasts |
 
 Picpic ne réhéberge, ne copie et ne transcrit aucun de ces contenus.

@@ -24,6 +24,15 @@ La liseuse EPUB a été retirée : trop d'éditions s'ouvraient mal ou pas du to
 **Les podcasts proposés dans la recherche, d'où sortent-ils ?**
 De l'annuaire public d'Apple, dans son ordre de pertinence. Les épisodes sont lus depuis le flux publié par l'auteur de l'émission et joués depuis son adresse : Picpic n'héberge ni ne copie aucun fichier.
 
+**Ma bibliographie de TD est mal lue ?**
+Photographie la feuille bien à plat, de face, avec de la lumière — ou colle le texte depuis le PDF, c'est plus sûr. Avant d'enregistrer, Picpic montre ce qu'il a compris : décoche une ligne mal lue. La ligne d'origine reste affichée sous chaque livre, et le niveau (obligatoire, conseillé, complément) se corrige d'un toucher.
+
+**Comment Picpic sait-il dans quelle BU trouver un livre ?**
+Il cherche les éditions françaises du livre au catalogue de la BnF, puis demande au Sudoc, le catalogue commun des bibliothèques universitaires, combien de BU possèdent chacune. Il retient l'édition demandée par ton enseignant si une BU l'a, sinon la plus répandue.
+
+**La voix Picpic, c'est quoi ?**
+Une voix de synthèse qui lit à voix haute les classiques du domaine public, sur ton iPhone. La voix se télécharge une fois (348 Mo, de préférence en Wi-Fi), puis tout se fait sans connexion. Picpic ne lit que les textes libres de droits en France : auteur et traducteur morts depuis plus de 70 ans.
+
 **Comment restaurer Picpic Pro sur un nouvel iPhone ?**
 Ouvre le paywall (bannière Picpic Pro) puis « Déjà Pro ? Restaurer mes achats », avec le même compte App Store.
 
