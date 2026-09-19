@@ -1,6 +1,6 @@
 # Politique de confidentialité — Picpic
 
-*Dernière mise à jour : 18 septembre 2026*
+*Dernière mise à jour : 19 septembre 2026*
 
 ## L'essentiel
 
@@ -13,6 +13,8 @@ Picpic n'a pas de serveurs. Ta bibliothèque, tes notes, ton profil de lecture :
 - **Aucune photo n'est envoyée nulle part.** Le scan d'un code-barres, la lecture d'une étagère, la capture d'une citation, la photo d'une bibliographie de TD et la reconnaissance d'une couverture depuis la recherche visuelle de ton iPhone se font entièrement sur l'appareil, avec le cadre Vision d'Apple. Seul le texte reconnu — un ISBN, un titre — sert ensuite à interroger les catalogues ci-dessous.
 - Tes TD, leurs dates et leurs bibliographies restent sur ton iPhone, comme ta bibliothèque. Le conseil affiché quand tu scannes un livre est calculé sur l'appareil ; sa formulation, quand Apple Intelligence est disponible, vient du modèle embarqué d'Apple, sans aucun appel réseau.
 - Rien de ce que tu demandes à l'assistant de lecture ne quitte ton iPhone. Il s'appuie sur le modèle embarqué d'Apple Intelligence : ta question et ta bibliothèque sont traitées sur l'appareil, sans aucun appel réseau.
+- **Les rappels sont locaux.** Le rappel de lecture quotidien et celui de la veille d'un TD sont des notifications planifiées par ton iPhone lui-même : leur texte (le titre du livre en cours, le nom du TD, la lecture qui reste) est composé sur l'appareil et confié au système, sans serveur ni notification « push ». Picpic ne reçoit aucun jeton d'appareil et ne sait pas quand ni si tu ouvres une notification. Les deux rappels sont désactivés par défaut ; l'autorisation n'est demandée que lorsque tu en actives un, et tu peux les couper à tout moment dans Picpic ou dans Réglages.
+- La sauvegarde de ta bibliothèque est un fichier que tu crées toi-même et que tu ranges où tu veux (Fichiers, iCloud Drive, AirDrop, mail) avec les outils d'Apple. Picpic ne l'envoie nulle part et n'en garde aucune copie ailleurs que sur ton appareil. Ce fichier contient tes livres, tes notes, tes citations, tes TD et ton profil de lecture, en clair : garde-le comme tu garderais un carnet.
 - Aucun identifiant publicitaire n'est utilisé.
 
 ## Requêtes réseau nécessaires au fonctionnement
@@ -38,4 +40,4 @@ Les achats sont traités par Apple. Pour valider les reçus et restaurer tes ach
 
 ## Tes droits
 
-Tout est chez toi : supprimer l'app supprime les données. Pour toute question : **agencecwest@gmail.com**.
+Tout est chez toi : supprimer l'app supprime les données, à l'exception des fichiers de sauvegarde que tu as créés, qui restent là où tu les as rangés. Pour toute question : **agencecwest@gmail.com**.

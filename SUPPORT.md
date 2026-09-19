@@ -33,6 +33,12 @@ Il cherche les éditions françaises du livre au catalogue de la BnF, puis deman
 **La voix Picpic, c'est quoi ?**
 Une voix de synthèse qui lit à voix haute les classiques du domaine public, sur ton iPhone. La voix se télécharge une fois (348 Mo, de préférence en Wi-Fi), puis tout se fait sans connexion. Picpic ne lit que les textes libres de droits en France : auteur et traducteur morts depuis plus de 70 ans.
 
+**Comment ne pas perdre ma bibliothèque en changeant d'iPhone ?**
+Accueil › « Sauvegarder » : Picpic range livres, notes, étoiles, citations et TD dans un fichier que tu gardes dans Fichiers ou iCloud Drive. Sur le nouvel iPhone, « Restaurer une sauvegarde » le relit, sans créer de doublons. Picpic n'envoie ce fichier nulle part.
+
+**Les rappels, comment ça marche ?**
+Deux rappels, désactivés par défaut : un rappel de lecture quotidien (« Mon année » › « Rappels ») et un rappel la veille d'un TD (« Mes TD » › « Me rappeler la veille »). Ce sont des notifications préparées par ton iPhone lui-même : aucun serveur, et tu les coupes quand tu veux.
+
 **Comment restaurer Picpic Pro sur un nouvel iPhone ?**
 Ouvre le paywall (bannière Picpic Pro) puis « Déjà Pro ? Restaurer mes achats », avec le même compte App Store.
 
